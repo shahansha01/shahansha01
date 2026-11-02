@@ -62,39 +62,6 @@ flowchart LR
 
 <br/>
 
-## Selected Projects
-
-<!--
-  Replace REPO_NAME_1, REPO_NAME_2, REPO_NAME_3 with your real repository names.
-  Pin the same repos on your profile for the best result.
--->
-
-<div align="center">
-
-<a href="https://github.com/shahansha01/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shahansha01&repo=REPO_NAME_1&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&hide_border=true" alt="Project 1"/></a>
-<a href="https://github.com/shahansha01/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shahansha01&repo=REPO_NAME_2&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&hide_border=true" alt="Project 2"/></a>
-<br/>
-<a href="https://github.com/shahansha01/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shahansha01&repo=REPO_NAME_3&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&hide_border=true" alt="Project 3"/></a>
-
-</div>
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahansha01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B949E&text_color=C9D1D9&ring_color=58A6FF&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahansha01&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahansha01&bg_color=0D1117&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=58A6FF&hide_border=true&hide_title=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
 ## Contact
 
 I'm open to roles and projects in **AI development, data analytics, and frontend engineering**.
